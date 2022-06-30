@@ -1,5 +1,5 @@
 class Multiply {
-    def Multiply(int x, int y){
+    def Multi(int x, int y){
         return x*y
     }
 }
