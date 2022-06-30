@@ -6,6 +6,6 @@ def call(int value1, int value2) {
     }
     catch(Exception e) {
     println("Exception: ${e}")
-     \}
+     }
     return this
 }
