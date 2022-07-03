@@ -4,5 +4,7 @@ class Divider {
          return x/y
     }
     catch (ArithmeticException e) {
-      System.out.println(e.getMessage())}
+      System.out.println(e.getMessage())
+    }
+}
 }
