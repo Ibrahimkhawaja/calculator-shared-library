@@ -1,5 +1,5 @@
-class Adder {
-    def Add(int x, int y) {
+class Subtract {
+    def Subtract(int x, int y) {
         return x-y
     }
 }
