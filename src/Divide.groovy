@@ -1,5 +1,5 @@
 class Divide {
-  try { def Divide(int x, int y) 
+  try { def Div(int x, int y) 
         return x/y
     }
       
