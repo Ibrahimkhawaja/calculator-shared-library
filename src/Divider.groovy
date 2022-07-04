@@ -1,10 +1,10 @@
 class Divider {
     def Divide (int x, int y) {
- //   try {
+    try {
          return x/y
-//    }
-//    catch (ArithmeticException e) {
-//      System.out.println(e.getMessage())
-//    }
+    }
+    catch (ArithmeticException e) {
+      System.out.println(e.getMessage())
+    }
 }
 }
