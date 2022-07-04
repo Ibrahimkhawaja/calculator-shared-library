@@ -5,7 +5,7 @@ class Divide {
       
   catch (ArithmeticException e) {
             // Exception handler
-            SSystem.out.println(e.getMessage());
+            System.out.println(e.getMessage());
         }
     
 }
