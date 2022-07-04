@@ -1,5 +1,8 @@
 class Divide {
-  try { def Div(int x, int y) 
+  
+  def Div(int x, int y) {
+  
+  try { 
         return x/y
     }
       
@@ -7,5 +10,5 @@ class Divide {
             // Exception handler
             System.out.println(e.getMessage());
         }
-    
+  }
 }
